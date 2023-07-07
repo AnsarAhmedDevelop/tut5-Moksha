@@ -1,4 +1,4 @@
 Line1
-ABCD
+EFGH
 Line3
 Line4
